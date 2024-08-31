@@ -1,9 +1,15 @@
+# 👋 Hello, World! I'm Jeet Jayas
+
+**Welcome to my GitHub profile!** 🚀
+---
 ### Bio:
 ![Developer](https://img.shields.io/badge/Developer-Computer%20Science%20Scholar-blue?style=flat-square&logo=python)
 
 I’m Jeet Jayas, a Computer Science senior at Purdue University specializing in Machine Intelligence and Data Mining. With a solid foundation in software development and a keen interest in algorithm optimization and machine learning, I enjoy building innovative solutions that bridge the gap between theory and real-world applications.
 
 My projects range from custom shell implementations and full-stack web development to machine learning models and data analysis tools. I'm proficient in a variety of programming languages and frameworks, including Python, Java, C, Django, React, and SQL.
+
+Feel free to explore my projects, and don't hesitate to connect if you want to collaborate or just have a chat about tech, coding, or life in general! Let's build something amazing together! 🤝
 
 ### 🚀 What I do:
 - Develop full-stack applications using modern frameworks and technologies.
