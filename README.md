@@ -23,7 +23,7 @@ Feel free to explore my projects, and don't hesitate to connect if you want to c
 - Exploring advanced data structures and algorithms in my role as a Teaching Assistant.
 
 ### 🎓 Education:
-- **Purdue University** | B.S. in Computer Science (Expected Graduation: December 2025)
+- **Purdue University** | B.S. in Computer Science (Expected Graduation: May 2025)
 - Certificate in Applications in Data Science
 
 ### 🛠️ When I code, I rely on:
